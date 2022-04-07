@@ -13,6 +13,8 @@ No, it would not be considered to be zero due to the R-squared value being 0.714
 ### 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 No, this linear model does not predict MPG of MechaCar prototypes effectively.  There appears to still be variables not included in this analysis that account for ~30% of the linear model. Determining and including those variables would make this model more effective.  
 
+![regression](images/del1.png)
+
 ## DELIVERABLE 2
 ## Summary Statistics on Suspension Coils
 
